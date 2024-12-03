@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Jayna Coltellino
 
 #### Your section leader's name
 
-TODO
+Elmira Talebianaraki
 
 #### Project title
 
-TODO
+Cafe Conversations
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have created all of the characters, the backgrounds, and the sprites to make the textbox, main menu, and more. I have navigated renpy and learned how to make a visual novel game. I started writing the script for the characters. I not only have each character but I also have multiple versions of them for every emotion. 
 
 #### What have you not done for your project yet?
 
-TODO
+I have not coded all the script. That's all that's left to do. 
 
 #### What problems, if any, have you encountered?
 
-TODO
+It was difficult to try and make characters from scratch so I finally found characters I could download. I had a little issue trying to figure out how to create different options to select in renpy and I finally figured that out and now I can create the different story lines that I had originally wanted. 
